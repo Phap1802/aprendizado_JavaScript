@@ -10,3 +10,6 @@
 
 #### Primeiros Passos JavaScript;
 #### Conhecendo Funções; 
+#### Objetos e Classes - Instancia;
+#### Arrays e Estruturas de Repetiçção;
+
