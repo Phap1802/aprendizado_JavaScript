@@ -12,4 +12,10 @@
 #### Conhecendo Funções; 
 #### Objetos e Classes - Instancia;
 #### Arrays e Estruturas de Repetiçção;
+#### Importações e Exportações JS (node.js);
+#### projetoPokedex :
+#####                  (Projeto Web, referente a criação de uma pokedex usando HMTL/CSS/JAVASCRIPT);
+
+
+
 

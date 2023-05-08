@@ -1,0 +1,53 @@
+<!-- HTML É  UMA ESTRUTURA DE MARCAÇÇÃOD E TEXTO COM SEMANTICA = SIGNIFICADO-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex</title>
+<!--CSS É O ESTILO DO SITE/ TEXTO ESTILIZAÇÃO-->
+<!--A tag <style> é o bloco dentro do head do html para trazer o CSS-->
+<style>
+    h1{
+        color: red;
+        text-align: center;
+    }
+    button {
+        color:rgb(224, 123, 0);
+    }
+
+
+</style>
+</head>
+<body>
+    <!--ENTENDER AS TAGS-->
+    <h1>Olá Mundo!</h1>
+    <p>Meu primeiro site esta sendo feito junto de um curso da DIO</p>
+
+    <button id="btnTeste" type="buttom">
+    
+        Teste
+
+    </button>
+
+<!-- JAVA SCRIPT E O QUE DA COMPORTAMENTO AO HTML/CSS-->    
+<!--A Tag <script> é o bloco de comandos JS dentro do codigo html-->
+    <script>
+
+        document.getElementById("btnTeste");
+
+        btnTeste.addEventListener("click"), function(){
+            console.log('clickou no botão');
+
+        }
+
+
+    </script>
+
+</body>
+</html>
+<!--o comando no terminal = "http-server" sobe um servidor no nosso host para simular a comunicação cliente servidor "no meu caso tive que deixar inrestrito a execução de script"-->
+
+
