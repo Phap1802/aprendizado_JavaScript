@@ -6,5 +6,7 @@
 
 ##### DEMAIS ANOTAÇÕES FEITA NO PROPRIO CODIGO.
 
-##### Em "projetoHtmlCssParaListPoke" assisti as video aula e fui aplicando em meu codigo conforme fui compreendendo, logo commito netes repositório minha versão da pokedex, e futuramente irei comitar a correção de acordo com a do professor. 
+##### Em "projetoHtmlCssParaListPoke" assisti as video aula e fui aplicando em meu codigo conforme fui compreendendo, logo commito netes repositório minha versão da pokedex. 
+
+
 
