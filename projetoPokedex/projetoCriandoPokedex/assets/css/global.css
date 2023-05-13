@@ -5,7 +5,7 @@
     box-sizing: border-box;
 
 }
-
+ 
 body{
     background-color: #f6f8fc;
 
@@ -26,7 +26,7 @@ body{
     .content {
         max-width: 992px;
         height: auto;
-        /*quando coloca auto em margem ela centraliza colocando margem no começo e no fim */
+        /*quando coloca auto em margem ela centraliza colocando margem no começo e no fim  */
         margin: 1rem auto;
         border-radius: 1rem;
     }

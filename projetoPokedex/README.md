@@ -8,5 +8,11 @@
 
 ##### Em "projetoHtmlCssParaListPoke" assisti as video aula e fui aplicando em meu codigo conforme fui compreendendo, logo commito netes repositório minha versão da pokedex. 
 
+#### Na aula Dominando o Protocolo HTTP e Interagindo com PokeAPI as anotações fiz junto do programa da pokedex por comentarios.
+
+#### Em um outro repositorio no github pretendo postar o projeto da pokedex mas com algumas alterações autorais para treino exemplo " colocar um filtro interativo " 
+
+
+
 
 
