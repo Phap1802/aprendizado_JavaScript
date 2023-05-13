@@ -13,6 +13,11 @@
 #### Em um outro repositorio no github pretendo postar o projeto da pokedex mas com algumas alterações autorais para treino exemplo " colocar um filtro interativo " 
 
 
+### Deixo Aqui os meus agradecimentos ao pessoal da DIO e o otimo professor Renan pelos ensino de JS. 
+
+
+
+
 
 
 
