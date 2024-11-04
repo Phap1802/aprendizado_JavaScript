@@ -34,7 +34,7 @@ function cobrarPagamento(cobrar, precoE){
     } else if (cobrar === 'Acima de 2x') {
 
        
-        let valorAtualizado = precoE - (precoE * (10/100));
+        let valorAtualizado = precoE + (precoE * (10/100));
         return 'Voce recebeu 10% de Juros, o preço com juros ficou: ' + valorAtualizado;
 
     }  

@@ -13,6 +13,7 @@ let kmViagem = 101;
 let valorGasto = precoCombustivel * (kmViagem/kmPorLitros);
 
 console.log(valorGasto.toFixed(2));
+
 /* o comando  " .toFixed(2) " determina a quantidade de casa decimais após a virgula sera mostrado, mas para isso converte em texto*/
 
 
