@@ -35,3 +35,24 @@ for (let i = 0; i < 11; i++) {
 
 
 // Muito mais eficaz do que declara tanta variavel que nem eu fiz. mas tentei. 
+
+//Crie um programa que dado um numero, imprima sua tabuada. 
+
+
+
+
+/* 
+const numeroEscolhido = 6;
+
+const listaTabuada = [0,1,2,3,4,5,6,7,8,9,10];
+
+
+
+ for (let i = 0; i < listaTabuada.length; i++) {
+
+    let resultado = numeroEscolhido * listaTabuada[i]; 
+    console.log(resultado);
+
+    
+    
+} */ 
